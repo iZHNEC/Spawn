@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0CCFE50B-F285-7205-06F5-1E01D10BB1EF}</ProjectGuid>
+    <ProjectGuid>{C318F4FC-79AB-E522-02C7-BCAAD85CA7A1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,8 +58,8 @@
   <ItemGroup>
     <Compile Include="Assets\Bandits - Pixel Art\Demo\Bandit.cs" />
     <Compile Include="Assets\Bandits - Pixel Art\Demo\Sensor_Bandit.cs" />
-    <Compile Include="Assets\Scripts\SpawnHuman.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
+    <Compile Include="Assets\Scripts\SpawnHuman.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

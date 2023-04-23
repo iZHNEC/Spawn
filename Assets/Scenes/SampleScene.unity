@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f404b25151ec92b409383e334ce5d103, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _spawnPrefab: {fileID: 6589454061654188446, guid: 713747182697e6d4a85952f4c3101bbd, type: 3}
+  _enemyHuman: {fileID: -2431800177862454488, guid: 713747182697e6d4a85952f4c3101bbd, type: 3}
 --- !u!4 &114295641
 Transform:
   m_ObjectHideFlags: 0
